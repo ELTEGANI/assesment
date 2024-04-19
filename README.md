@@ -1,7 +1,18 @@
-Screenshots taken from Android emulator.
-![Screenshot_1713516432](https://github.com/ELTEGANI/assesment/assets/5574608/b31bf00e-f8c7-47b1-9489-ab8961abc66a)
-![Screenshot_1713516394](https://github.com/ELTEGANI/assesment/assets/5574608/27abcbeb-e12e-44c4-8f47-7b5117e8088e)
-![Screenshot_1713516384](https://github.com/ELTEGANI/assesment/assets/5574608/c24ad659-f0e8-4e67-b7d2-372953ef7024)
-![Screenshot_1713516287](https://github.com/ELTEGANI/assesment/assets/5574608/dca590cb-8813-4445-b38e-598e9ebeebed)
-![Screenshot_1713516425](https://github.com/ELTEGANI/assesment/assets/5574608/907aa054-c51c-4089-823e-0eab53612e4d)
-![Screenshot_1713516418](https://github.com/ELTEGANI/assesment/assets/5574608/d36ab231-67ff-420c-a5f0-ccb84fdac479)
+### Screenshots
+<table align="center">
+<tr>  
+<td><img src = "https://github.com/ELTEGANI/assesment/assets/5574608/13298f9a-bca7-4bb3-9ffd-5c77189a93c6"></td>
+<td><img src = "https://github.com/ELTEGANI/assesment/assets/5574608/254cd173-314e-4923-9296-36d3666e60eb"></td>
+<td><img src = "https://github.com/ELTEGANI/assesment/assets/5574608/58e28378-bb8a-4923-89a2-b8a6572fd2b5"></td>
+<td><img src = "https://github.com/ELTEGANI/assesment/assets/5574608/b9723872-e647-4ff8-b3ea-55895d89a608"></td>
+<td><img src = "https://github.com/ELTEGANI/assesment/assets/5574608/f8f018c9-365d-4f54-b011-9ad86821b82b"></td>  
+<td><img src = "https://github.com/ELTEGANI/assesment/assets/5574608/c078b78d-2fb6-46e7-980f-1a8516567718"></td>  
+<td><img src = "https://github.com/ELTEGANI/assesment/assets/5574608/f32d76d6-0d61-40f4-92a0-3d5f2423e90c"></td> 
+</tr>
+</table>
+
+
+
+
+
+
